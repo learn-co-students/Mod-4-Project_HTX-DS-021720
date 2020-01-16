@@ -1,6 +1,6 @@
 # Module 4 Project
 
-We've toiled through projects together, venturing down strange paths towards new models with all their quirks, dodging smoothing techniques, poisoned data and all the joys of time series - but now, it's time to choose your own adventure.
+We've toiled through projects together, venturing down strange paths towards new models with all their quirks, dodging Bayesian methods, naturally boosted trees, and all the joys of time series - but now, it's time to choose your own adventure.
 
 ![Eenie meenie minie mo from Pulp Fiction](https://media.giphy.com/media/3o7aTCzQT0DymImfXG/giphy.gif)
 
