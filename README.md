@@ -32,7 +32,7 @@ In addition to the above, there are two ways that you can think about getting st
 
 We highly recommend you use a [Kaggle competition](https://kaggle.com/competitions) or a [Kaggle dataset](https://www.kaggle.com/datasets), because of the community and because there are often pre-defined questions for you to answer (plus, contributing to Kaggle is a great way to network/showcase your skills!). 
 
-In addition, some other places to look for data include:
+Some other places to look for data include:
 
 * [Google's new dataset search tool](https://datasetsearch.research.google.com/)
 * [UCI Machine Learning Datasets Repository](https://archive.ics.uci.edu/ml/datasets.html)
