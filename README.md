@@ -34,6 +34,7 @@ We highly recommend you use a [Kaggle competition](https://kaggle.com/competitio
 
 In addition, some other places to look for data include:
 
+* [Google's new dataset search tool](https://datasetsearch.research.google.com/)
 * [UCI Machine Learning Datasets Repository](https://archive.ics.uci.edu/ml/datasets.html)
 * [Awesome Datasets Repo on Github](https://github.com/awesomedata/awesome-public-datasets)
 * [New York City Open Data Portal](https://opendata.cityofnewyork.us/)
@@ -83,4 +84,4 @@ Your github repository should contain all of the above, or links to the above if
 
 ### Et Cetera
 
-You must meet with a coach or instructor, so they can check the feasibility of your idea, and at least one other time before the presentations. You're welcome to meet more than that, too!
+**You must meet with Bryan before 6pm on Thursday, Feb 6,** so he can check the feasibility of your idea, and with either Bryan or Lindsey at least one other time before the presentations. You're welcome to meet more than that, too!
