@@ -1,8 +1,8 @@
 # Module 4 Project
 
-We've toiled through projects together, venturing down strange paths towards new models with all their quirks, dodging Bayesian methods, naturally boosted trees, and all the joys of time series - but now, it's time to choose your own adventure.
+We've toiled through projects together, explored the ups and downs of remote learning and collaboration, and haven't encountered TOO many merge headaches - but now, it's time to choose your own adventure.
 
-![Eenie meenie minie mo from Pulp Fiction](https://media.giphy.com/media/3o7aTCzQT0DymImfXG/giphy.gif)
+![Going on an adventure from The Hobbit](https://66.media.tumblr.com/bcce994a6ac36bf680acb287f9769783/tumblr_pso97rzEbg1wu1zhco1_500.gif)
 
 ## The Project
 
@@ -39,6 +39,7 @@ Some other places to look for data include:
 * [Awesome Datasets Repo on Github](https://github.com/awesomedata/awesome-public-datasets)
 * [New York City Open Data Portal](https://opendata.cityofnewyork.us/)
 * [Inside AirBNB ](http://insideairbnb.com/)
+* [Data is Plural's Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit?usp=sharing)
 * Other data science competition sites (a few can be found listed [here](https://github.com/interviewBubble/Data-Science-Competitions))
 
 ## The Deliverables
@@ -76,7 +77,7 @@ Take the time to make sure that you craft your story well, and clearly explain y
 
 ### 3. Presentation Must-Haves
 
-Y'all know the drill. Presentations are intended for a non-technical audience, and should be 5-10 minutes long. We'll need to knock out 10 of these back to back so I will be a stickler for time. Check [presentations 101](https://docs.google.com/presentation/d/1PBPi3-VKWldvkrEyHNPJJHLKZuL1AApkgGG6DwXE6Zs/edit#slide=id.g522373b1e4_0_0) if you need guidelines or inspiration.  
+Y'all know the drill. Presentations are intended for a non-technical audience, and should be 5-10 minutes long. We'll need to knock out 10 of these back to back so I will be a stickler for time. Check [presentations 101](https://docs.google.com/presentation/d/1PBPi3-VKWldvkrEyHNPJJHLKZuL1AApkgGG6DwXE6Zs/edit#slide=id.g522373b1e4_0_0) if you need guidelines or inspiration. The presentations will be on **Tuesday, May 5**.
 
 ### 4. Github Must-Haves
 
@@ -84,4 +85,8 @@ Your github repository should contain all of the above, or links to the above if
 
 ### Et Cetera
 
-**You must meet with Bryan before 6pm on Thursday, Feb 6,** so he can check the feasibility of your idea, and with either Bryan or Lindsey at least one other time before the presentations. You're welcome to meet more than that, too!
+**You must meet with Bryan by 6pm on Wednesday, April 29,** so he can check the feasibility of your idea, and with either Bryan or Lindsey at least one other time before the presentations. You're welcome to meet more than that, too!
+
+As a reminder, you all have a **blog post** due on **Friday, May 8**, which we highly recommend you write on this project!
+
+Additionally, we'll be putting you into feedback groups to practice going through notebooks/projects and giving constructive feedback to each other. 
