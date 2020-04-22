@@ -77,7 +77,7 @@ Take the time to make sure that you craft your story well, and clearly explain y
 
 ### 3. Presentation Must-Haves
 
-Y'all know the drill. Presentations are intended for a non-technical audience, and should be 5-10 minutes long. We'll need to knock out 10 of these back to back so I will be a stickler for time. Check [presentations 101](https://docs.google.com/presentation/d/1PBPi3-VKWldvkrEyHNPJJHLKZuL1AApkgGG6DwXE6Zs/edit#slide=id.g522373b1e4_0_0) if you need guidelines or inspiration. The presentations will be on **Tuesday, May 5**.
+Y'all know the drill. Presentations are intended for a non-technical audience, and should be 5-10 minutes long. We'll need to knock out 10 of these back to back so I will be a stickler for time. Check [presentations 101](https://docs.google.com/presentation/d/1PBPi3-VKWldvkrEyHNPJJHLKZuL1AApkgGG6DwXE6Zs/edit#slide=id.g522373b1e4_0_0) if you need guidelines or inspiration. The presentations will be on **Wednesday, May 6**.
 
 ### 4. Github Must-Haves
 
@@ -85,7 +85,7 @@ Your github repository should contain all of the above, or links to the above if
 
 ### Et Cetera
 
-**You must meet with Bryan by 6pm on Wednesday, April 29,** so he can check the feasibility of your idea, and with either Bryan or Lindsey at least one other time before the presentations. You're welcome to meet more than that, too!
+**You must meet with Bryan by 12pm on Thursday, April 30,** so he can check the feasibility of your idea, and with either Bryan or Lindsey at least one other time before the presentations. You're welcome to meet more than that, too!
 
 As a reminder, you all have a **blog post** due on **Friday, May 8**, which we highly recommend you write on this project!
 
